@@ -7,7 +7,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **outlier detect
 ## 📁 Dataset
 
 - **Filename**: `cleaned_laptop_reviews.xlsx`
-- **Description**: Contains numerical and textual data related to laptop product reviews, ratings, and user feedback.
+- **Description**: Contains numerical and textual data related to laptop product reviews, ratings, and user feedback
 
 ---
 
