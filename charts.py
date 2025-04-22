@@ -13,8 +13,6 @@ plt.rcParams['figure.figsize'] = (10, 6)
 # plt.xlabel('Overall Rating')
 # plt.ylabel('Frequency')
 # plt.show()
-
-
 # 2. Count of Review Ratings (1 to 5 stars)
 # sns.countplot(data=df, x='rating', palette='viridis')
 # plt.title('Count of Review Ratings')
