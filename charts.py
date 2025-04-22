@@ -5,7 +5,6 @@ import seaborn as sns
 
 df = pd.read_excel('cleaned_laptop_reviews.xlsx')
 
-# Set style
 sns.set(style="whitegrid")
 plt.rcParams['figure.figsize'] = (10, 6)
 
