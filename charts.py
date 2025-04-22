@@ -22,7 +22,6 @@ plt.rcParams['figure.figsize'] = (10, 6)
 # plt.xlabel('Review Rating')
 # plt.ylabel('Number of Reviews')
 # plt.show()
-
 # 3. Top 10 Most Rated Products
 # top_rated = df.groupby('product_name')['no_ratings'].max().sort_values(ascending=False).head(10)
 # top_rated.plot(kind='bar', color='coral')
