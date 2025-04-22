@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 df = pd.read_excel('cleaned_laptop_reviews.xlsx')
 
 # Set style
