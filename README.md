@@ -1,5 +1,4 @@
-# 💻 Laptop Reviews EDA & Outlier Removal
-
+# 💻 Laptop Reviews EDA & Outlier Remov
 This project focuses on **Exploratory Data Analysis (EDA)** and **outlier detection** using a dataset of laptop reviews. By applying visualization techniques and the Interquartile Range (IQR) method, we uncover insights and clean the data for reliable further analysis or modeling.
 
 ---
