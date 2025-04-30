@@ -18,7 +18,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and **outlier detect
 - `no_reviews`
 - `rating`
 
----
+--
 
 ## 🔍 Analysis Workflow
 
